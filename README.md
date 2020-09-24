@@ -1,7 +1,7 @@
 Onion Routing
 ===========
 
-This is an example of onion routing within java to help explain the protocol, this will likely not work with TOR, I have not tried this, however there protocol is likely similar.
+This is an example of onion routing within java to help explain the protocol, this will likely not work with TOR, I have not tried this, however their protocol is likely similar.
 
 <img src="https://github.com/DrBrad/Java-Onion-Routing-Example/blob/master/Onion_diagram.svg.png" width="70%" style="margin: 0px auto; display: block;" />
 
